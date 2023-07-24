@@ -20,10 +20,10 @@ template.innerHTML = `
       width: 100%;
       height: 40px;
       box-sizing: border-box;
-      border: 1px solid #a1a1a1;
-      background: #ffffff;
+      border: 1px solid #03fc13;
+      background: #03fc13;
       box-shadow: 0 2px 4px 0 rgba(0,0,0, 0.05), 0 2px 8px 0 rgba(161,161,161, 0.4);
-      color: #363636;
+      color: #ffffff;
     }
   </style>
 
